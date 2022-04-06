@@ -7,11 +7,11 @@
  {  
     while(true)
     {
-    {
+    
      Calculator clac;
      clac.input();
      clac.calculate();
      clac.output();
-    }
+    
     }
  }
